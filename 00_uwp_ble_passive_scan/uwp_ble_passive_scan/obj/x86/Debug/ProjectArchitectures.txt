@@ -1,0 +1,1 @@
+C:\Users\Naoki\Documents\Visual Studio 2015\Projects\uwp_ble_passive_scan\uwp_ble_passive_scan\uwp_ble_passive_scan.csproj;x86
