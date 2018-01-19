@@ -1,21 +1,20 @@
 # uwp_ble_samples
-UWPでBluetooth Low Energyを利用するサンプル集です
+These are UWP sample programs using Bluetooth Low Energy.
 
-基本的にPrismを使用しています。
+These programs use Prism library generaly.
 
-| サンプル | 説明 |
+| Name | description |
 -----------|-------------|
-| [00_uwp_ble_passive_scan][0] | Advertiseをスキャンする
+| [00_uwp_ble_passive_scan][0] | Scan a advertise
 
 [0]: 00_uwp_ble_passive_scan/
 
-## 環境
+## Environment
 Windows10 64bit
 
 VisualStudio 2015 Express
 
-## 参考
-以下のURLの内容を参考にして作成しています。
+## Ｒeference
 
 UWPでBLEのアドバタイジングパケットを拾ってみよう - かずきのBlog@hatena
 
